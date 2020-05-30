@@ -251,7 +251,6 @@ text-decoration: none;
 
 }
 .star{
-font-size:20px;
 	display: inline-block;
 	padding:10px;
 	color: #ccc;
@@ -495,4 +494,11 @@ height: auto;
 }	
 .phon li{
 	font-size:25px;
+}
+.star{
+font-size:20px;
+	display: inline-block;
+	padding:10px;
+	color: #ccc;
+}	
 }
