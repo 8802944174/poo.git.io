@@ -489,4 +489,9 @@ height: auto;
 	height: auto;
 
 }
+.portfolio h1,.ourteam h1,.contect-us h1,.meddle h1{
+	font-size:15px;
+	font-weight:bold;
+}	
+	
 }
